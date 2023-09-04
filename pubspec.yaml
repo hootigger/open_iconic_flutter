@@ -15,4 +15,4 @@ flutter:
   fonts:
     - family: OpenIconic
       fonts:
-        - asset: assets/open-iconic.tff
+        - asset: assets/open-iconic.ttf
